@@ -6,3 +6,4 @@ for e in ls:
     print(e)
 ls1=['a','b']
 ls2=ls+ls1
+print(ls2)
